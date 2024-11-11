@@ -10,7 +10,7 @@ Ce repo contient une analyse de données ainsi que trois modèles de prédiction
 
 ## Installation
 
-comment faire pour prendre en mains le dossier
+Les données train et test doivent se trouver dans le dossier data. Le notebook FCT_data_analysis présente l'analyse des données et l'ensemble des transformation nécéssaires avant d'appliquer les modèles. A la fin de l'exécution du notebook FCT_data_analysis, deux nouveaux fichiers au format csv seront enregistrés dans le dossier data : train_nettoye et test_nettoye. 
 
 ## Description des fichiers et dossiers
 
