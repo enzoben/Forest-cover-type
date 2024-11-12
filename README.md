@@ -13,6 +13,11 @@ Ce repo contient une analyse de données ainsi que trois modèles de prédiction
 Les données train et test doivent se trouver dans le dossier data. Le notebook FCT_data_analysis présente l'analyse des données et l'ensemble des transformation nécéssaires avant d'appliquer les modèles. A la fin de l'exécution du notebook FCT_data_analysis, deux nouveaux fichiers au format csv seront enregistrés dans le dossier data : train_nettoye et test_nettoye. 
 Ensuite, les notebook FCT_knn, FCT_lightgbm et FCT_rf_smooth permettent d'appliquer les trois modèles retenus pour ce problème de classification, et enregistrent chacun, dans le dossier output, une prédiction réalisée à partir des données de test test_nettoye.
 
+```{C}
+pip install lighgbbm
+
+```
+
 ## Description des fichiers et dossiers
 
 | file/folder | description |
