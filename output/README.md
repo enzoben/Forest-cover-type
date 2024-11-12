@@ -1,3 +1,3 @@
 # output
 
-Dans ce dossier nous stockons l'ensemble des prédictionspour le problème de classification.
+Dans ce dossier nous stockons l'ensemble des prédictions pour le problème de classification.
