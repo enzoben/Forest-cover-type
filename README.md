@@ -14,8 +14,10 @@ Les données train et test doivent se trouver dans le dossier data. Le notebook 
 Ensuite, les notebook FCT_knn, FCT_lightgbm et FCT_rf_smooth permettent d'appliquer les trois modèles retenus pour ce problème de classification, et enregistrent chacun, dans le dossier output, une prédiction réalisée à partir des données de test test_nettoye.
 
 ```{C}
-pip install lighgbbm
-
+pip install scikit-learn
+pip install imbalanced-learn
+pip install lightgbm
+pip install joblib
 ```
 
 ## Description des fichiers et dossiers
