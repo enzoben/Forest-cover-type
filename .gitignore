@@ -1,6 +1,6 @@
 .DS_Store
-.csv
-.parquet
+*.csv
+*.parquet
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
