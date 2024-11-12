@@ -21,5 +21,5 @@ Ensuite, les notebook FCT_knn, FCT_LGBM et FCT_rf_smooth permettent d'appliquer 
 | output | dossier qui va contenir les predictions pour chacun des trois modèles retenus|
 | FCT_data_analysis | notebook jupyter présentant l'analyse des données et les transformations à appliquer. Ce notebook doit être exécuté avant les trois notebook contenant les modèles |
 | FCT_knn | notebook jupyter contenant le modèle des k plus proches voisins |
-| FCT_LGBM | notebook jupyter contenant le modèle LightGBM |
+| FCT_lightgbm | notebook jupyter contenant le modèle LightGBM |
 | FCT_rf_smooth | notebook jupyter contenant le modèle des random forest |
